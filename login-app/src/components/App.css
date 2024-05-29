@@ -1,0 +1,41 @@
+body {
+    background-color: #32afb4;
+    color: rgb(67, 45, 176);
+    padding: x;
+    font-family: Arial;
+    text-align: center;
+    font-size: large;
+  }
+  h1 {
+    background-color: #32afb4;
+    color: rgb(134, 29, 172);
+    padding: x;
+    font-family: Arial;
+    text-align: center;
+    font-size: 50px;
+  }
+  input {
+    background-color:white;
+    color: rgb(15, 15, 16);
+    padding: x;
+    font-family: Arial;
+    text-align: center  ;
+    font-size: 20px;
+  }
+  button {
+    background-color: #f5aa99;
+    color: rgb(67, 45, 176);
+    padding: x;
+    font-family: Arial;
+    text-align: center;
+    font-size: 20px;
+  }
+  p {
+    color: rgba(220, 14, 3, 0.649);
+    padding: x;
+    font-family: Arial;
+    text-align: center;
+    font-size: 26px;
+  }
+  
+  
